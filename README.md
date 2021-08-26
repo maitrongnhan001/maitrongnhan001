@@ -1,4 +1,4 @@
-![Easy Frontend banner]()
+![banner]()
 
 ### Hi there 👋
 - 🔭 I’m currently student in Can Tho University.
