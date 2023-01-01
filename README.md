@@ -1,4 +1,3 @@
-![banner](https://github.com/maitrongnhan001/maitrongnhan001/blob/master/untitled.png)
 
 ### Hi there 👋
 - 🔭 I’m currently student in Can Tho University.
