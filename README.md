@@ -2,7 +2,9 @@
 
 # Hi, I'm Nhan Mai 👋
 
-**Software Engineer · Builder · Continuous learner**
+**Senior Software Engineer · Full-Stack & Backend · System Design**
+
+*Building scalable, maintainable and well-tested software that ships.*
 
 [![Profile views](https://komarev.com/ghpvc/?username=maitrongnhan001&style=for-the-badge&color=blueviolet)](https://github.com/maitrongnhan001)
 [![Followers](https://img.shields.io/github/followers/maitrongnhan001?style=for-the-badge&logo=github)](https://github.com/maitrongnhan001?tab=followers)
@@ -12,11 +14,37 @@
 
 ---
 
+## 👨‍💻 About Me
+
+I'm a senior software engineer who designs and delivers end-to-end products, from
+architecture and API design to deployment and production support. I care about clean
+code, pragmatic trade-offs, and growing the teams I work with.
+
+- 🏗️ **Architecture & System Design:** modular monoliths, microservices, event-driven systems, REST/GraphQL APIs
+- ⚙️ **Backend & Full-Stack:** Node.js, TypeScript, Python, PHP, Java, React
+- ☁️ **Cloud & DevOps:** Docker, CI/CD with GitHub Actions, observability and release automation
+- 🗄️ **Data:** relational & NoSQL modelling, query optimisation, caching strategies
+- ✅ **Quality:** code review, automated testing (unit/integration/E2E), refactoring legacy code
+- 🤝 **Leadership:** mentoring engineers, technical decision-making, cross-team collaboration
+- 🌱 **Currently exploring:** AI-assisted development, LLM integrations, scalable system patterns
+
+### 🧭 Engineering Principles
+
+| Principle | In practice |
+| --- | --- |
+| **Simplicity first** | Prefer boring, proven solutions over clever ones |
+| **Measure, then optimise** | Profile and monitor before tuning performance |
+| **Automate everything** | CI/CD, linting, tests and releases without manual steps |
+| **Write for humans** | Readable code, clear docs, meaningful commit history |
+| **Own the outcome** | Take responsibility from design through production |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=maitrongnhan001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=maitrongnhan001&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitrongnhan001&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
@@ -64,14 +92,5 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maitrongnhan001/maitrongnhan001/output/github-snake-dark.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/maitrongnhan001/maitrongnhan001/output/github-snake.svg" />
 </picture>
-
-</div>
-
-## 📫 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
