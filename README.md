@@ -72,6 +72,7 @@ code, pragmatic trade-offs, and growing the teams I work with.
 
 ## 🛠️ Tech Stack
 
+<!--TECH_STACK_START-->
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -83,6 +84,7 @@ code, pragmatic trade-offs, and growing the teams I work with.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
+<!--TECH_STACK_END-->
 
 ## 🐍 Contribution Snake
 
