@@ -1,0 +1,59 @@
+name: Generate profile metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # Lines of code added/removed, languages breakdown, repo stats
+      # Requires a repo secret METRICS_TOKEN (classic PAT with `repo` + `read:user` scopes)
+      - name: Metrics (languages + lines of code)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: maitrongnhan001
+          template: classic
+          filename: metrics/overview.svg
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Ho_Chi_Minh
+          plugin_lines: yes
+          plugin_lines_skipped: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, markdown, jupyter notebook
+          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          commits_authoring: maitrongnhan001
+
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: maitrongnhan001
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
