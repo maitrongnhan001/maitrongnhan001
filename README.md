@@ -73,28 +73,27 @@ code, pragmatic trade-offs, and growing the teams I work with.
 ## 🛠️ Tech Stack
 
 <!--TECH_STACK_START-->
-> Auto-generated from **79 repositories** (public + private) - last scan: `2026-10-26` UTC.
+> Auto-generated from **79 repositories** (public + private) - last scan: `2026-11-02` UTC.
 
 **Languages**
 
 <div align="center">
 
-![Python 26%](https://img.shields.io/badge/Python%2026%25-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript 15%](https://img.shields.io/badge/JavaScript%2015%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python 28%](https://img.shields.io/badge/Python%2028%25-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML 15%](https://img.shields.io/badge/HTML%2015%25-E34F26?style=flat-square&logo=html5&logoColor=white)
-![TypeScript 9%](https://img.shields.io/badge/TypeScript%209%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP 8%](https://img.shields.io/badge/PHP%208%25-777BB4?style=flat-square&logo=php&logoColor=white)
-![CSS 6%](https://img.shields.io/badge/CSS%206%25-1572B6?style=flat-square&logo=css3&logoColor=white)
-![C# 4%](https://img.shields.io/badge/C%23%204%25-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![SCSS 4%](https://img.shields.io/badge/SCSS%204%25-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Java 3%](https://img.shields.io/badge/Java%203%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript 14%](https://img.shields.io/badge/JavaScript%2014%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript 10%](https://img.shields.io/badge/TypeScript%2010%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP 7%](https://img.shields.io/badge/PHP%207%25-777BB4?style=flat-square&logo=php&logoColor=white)
+![CSS 5%](https://img.shields.io/badge/CSS%205%25-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java 5%](https://img.shields.io/badge/Java%205%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C# 3%](https://img.shields.io/badge/C%23%203%25-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![SCSS 3%](https://img.shields.io/badge/SCSS%203%25-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Jinja 2%](https://img.shields.io/badge/Jinja%202%25-555555?style=flat-square&logo=code&logoColor=white)
 ![Shell 2%](https://img.shields.io/badge/Shell%202%25-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![EJS 2%](https://img.shields.io/badge/EJS%202%25-555555?style=flat-square&logo=code&logoColor=white)
 ![Vue 2%](https://img.shields.io/badge/Vue%202%25-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![EJS 1%](https://img.shields.io/badge/EJS%201%25-555555?style=flat-square&logo=code&logoColor=white)
 ![Go 1%](https://img.shields.io/badge/Go%201%25-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TeX 1%](https://img.shields.io/badge/TeX%201%25-555555?style=flat-square&logo=code&logoColor=white)
-![Blade 1%](https://img.shields.io/badge/Blade%201%25-555555?style=flat-square&logo=code&logoColor=white)
 
 </div>
 
@@ -128,9 +127,9 @@ code, pragmatic trade-offs, and growing the teams I work with.
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=gin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=gin&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white)
 
 </div>
@@ -141,10 +140,11 @@ code, pragmatic trade-offs, and growing the teams I work with.
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 
 </div>
