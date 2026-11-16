@@ -73,7 +73,7 @@ code, pragmatic trade-offs, and growing the teams I work with.
 ## 🛠️ Tech Stack
 
 <!--TECH_STACK_START-->
-> Auto-generated from **80 repositories** (public + private) - last scan: `2026-11-09` UTC.
+> Auto-generated from **80 repositories** (public + private) - last scan: `2026-11-16` UTC.
 
 **Languages**
 
