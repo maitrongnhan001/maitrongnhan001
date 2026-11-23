@@ -73,19 +73,19 @@ code, pragmatic trade-offs, and growing the teams I work with.
 ## 🛠️ Tech Stack
 
 <!--TECH_STACK_START-->
-> Auto-generated from **80 repositories** (public + private) - last scan: `2026-11-16` UTC.
+> Auto-generated from **80 repositories** (public + private) - last scan: `2026-11-23` UTC.
 
 **Languages**
 
 <div align="center">
 
-![Python 27%](https://img.shields.io/badge/Python%2027%25-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML 14%](https://img.shields.io/badge/HTML%2014%25-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript 14%](https://img.shields.io/badge/JavaScript%2014%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript 10%](https://img.shields.io/badge/TypeScript%2010%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python 26%](https://img.shields.io/badge/Python%2026%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML 13%](https://img.shields.io/badge/HTML%2013%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript 13%](https://img.shields.io/badge/JavaScript%2013%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript 11%](https://img.shields.io/badge/TypeScript%2011%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PHP 7%](https://img.shields.io/badge/PHP%207%25-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java 7%](https://img.shields.io/badge/Java%207%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![CSS 5%](https://img.shields.io/badge/CSS%205%25-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Java 4%](https://img.shields.io/badge/Java%204%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C# 3%](https://img.shields.io/badge/C%23%203%25-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![SCSS 3%](https://img.shields.io/badge/SCSS%203%25-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Vue 3%](https://img.shields.io/badge/Vue%203%25-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
@@ -130,6 +130,7 @@ code, pragmatic trade-offs, and growing the teams I work with.
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white)
 
 </div>
@@ -167,8 +168,8 @@ code, pragmatic trade-offs, and growing the teams I work with.
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 </div>
